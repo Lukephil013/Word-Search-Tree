@@ -1,0 +1,319 @@
+#This list is of the long variety, friendo
+#In fewer words, buckle up :)
+G cherry
+C
+O
+I CHERRY
+I APPLE
+I BANANA
+I PEACH
+I APPLE
+I BANANA
+I APPLE
+I cherry
+R BANANA
+G BANANA
+I CHERRY
+I APPLE
+I banana
+I APPLE
+R peach
+R cherry
+G banana
+R banana
+X
+I CHERRY
+I CHERRY
+I CHERRY
+I peach
+N
+D
+C
+I cherry
+I cherry
+I banana
+I banana
+N
+X
+I banana
+G BANANA
+G peach
+G CHERRY
+E
+F CHERRY
+E
+G BANANA
+R cherry
+F cherry
+F peach
+G apple
+R PEACH
+E
+O
+R APPLE
+E
+G peach
+F peach
+I CHERRY
+N
+D
+C
+I APPLE
+I peach
+O
+X
+I APPLE
+I APPLE
+I CHERRY
+I CHERRY
+I APPLE
+I banana
+I APPLE
+O
+F PEACH
+I BANANA
+I APPLE
+N
+G cherry
+N
+O
+F cherry
+R APPLE
+X
+I banana
+I CHERRY
+I CHERRY
+I APPLE
+I BANANA
+R APPLE
+N
+F banana
+G banana
+R banana
+R PEACH
+G PEACH
+N
+R peach
+F cherry
+E
+O
+I BANANA
+I APPLE
+G APPLE
+I cherry
+I BANANA
+I APPLE
+I PEACH
+I banana
+I peach
+I cherry
+F CHERRY
+F cherry
+O
+D
+C
+I peach
+I apple
+N
+F APPLE
+G BANANA
+E
+O
+F APPLE
+R APPLE
+O
+G APPLE
+N
+R BANANA
+R cherry
+F PEACH
+I PEACH
+R APPLE
+O
+I peach
+I CHERRY
+I PEACH
+O
+N
+F CHERRY
+E
+X
+N
+I apple
+F APPLE
+F banana
+F banana
+E
+N
+O
+E
+I BANANA
+I PEACH
+I cherry
+N
+R peach
+I banana
+R peach
+G BANANA
+D
+C
+I peach
+I cherry
+I BANANA
+I BANANA
+N
+R banana
+C
+I BANANA
+O
+N
+E
+F peach
+E
+R BANANA
+N
+I PEACH
+I cherry
+O
+G cherry
+G apple
+O
+C
+I banana
+I peach
+I apple
+I cherry
+I apple
+I CHERRY
+I peach
+I banana
+G PEACH
+F peach
+N
+R apple
+F BANANA
+E
+N
+F peach
+I apple
+I banana
+F banana
+O
+I banana
+I peach
+N
+O
+G CHERRY
+R cherry
+E
+F peach
+N
+I banana
+I CHERRY
+G banana
+G PEACH
+G banana
+F BANANA
+D
+E
+C
+G apple
+G apple
+I APPLE
+I CHERRY
+I apple
+I cherry
+I apple
+G BANANA
+I cherry
+I cherry
+N
+I PEACH
+I PEACH
+I cherry
+I BANANA
+I APPLE
+I banana
+O
+R PEACH
+C
+I banana
+G banana
+O
+O
+F peach
+E
+E
+G cherry
+I apple
+O
+I APPLE
+I BANANA
+O
+F banana
+R banana
+N
+N
+R CHERRY
+O
+G APPLE
+E
+C
+I peach
+I APPLE
+I PEACH
+I banana
+G cherry
+O
+N
+G banana
+E
+N
+I BANANA
+I peach
+I banana
+I PEACH
+I cherry
+G PEACH
+O
+D
+N
+C
+I cherry
+F peach
+R peach
+E
+O
+I PEACH
+R banana
+O
+I CHERRY
+I BANANA
+I peach
+R peach
+D
+X
+C
+I PEACH
+R banana
+N
+R BANANA
+F peach
+G CHERRY
+O
+E
+R CHERRY
+I apple
+N
+X
+I cherry
+F BANANA
+O
+G apple
+X
+R peach
+I PEACH
+R CHERRY
+G banana
+D
+C
