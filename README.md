@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Lukephil013/Word-Search-Tree
+[![Build Status](https://travis-ci.org/Lukephil013/Word-Search-Tree.svg?branch=master)](https://travis-ci.org/Lukephil013/Word-Search-Tree)
 
 # Word-Search-Tree
 Add, remove, insert items(strings) into Binary Search Tree 
